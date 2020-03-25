@@ -1,7 +1,7 @@
 
-# This a object detection using Yolo Yolov3 model to predict on COCO data set
+# Object detection using Yolov3 model to predict on COCO data set
 
-# Note: Anaconda distribution, Jupyter Notebook is required to run this setup.
+# Please Note: Anaconda distribution, Jupyter Notebook is required to run this setup.
 
 1. Clone this repository
 https://github.com/abhishuraina/Code-Challenge-.git
