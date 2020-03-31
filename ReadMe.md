@@ -8,8 +8,10 @@ https://github.com/abhishuraina/Code-Challenge-.git
 2. Get in this Derictory
 cd Code-Challenge-
 3. Please be sure to Download the weights file from install the weights from 
-https://pjreddie.com/media/files/yolov3.weights
-in this derictory
+https://pjreddie.com/media/files/yolov3.weights in the smae derictory.
+
+4. Run the CodeChallengeIntrestExtraction.ipynb file in juypter notebook.
+
 
 
 
