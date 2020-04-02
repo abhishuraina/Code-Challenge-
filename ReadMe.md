@@ -11,6 +11,7 @@ cd Code-Challenge-
 https://pjreddie.com/media/files/yolov3.weights in the smae derictory.
 
 4. Run the CodeChallengeIntrestExtraction.ipynb file in juypter notebook.
+In the 17th cell you can give the the image you want to test.
 ![Screenshot from 2020-04-02 15-06-25](https://user-images.githubusercontent.com/45932588/78233808-ecfb7980-74f3-11ea-811d-4f9981d93186.png)
 In the photo_filename you can give path to the image you want to test .
 5.
